@@ -1,12 +1,14 @@
 #!/bin/bash
 # Created By Andika - 2024
 
-# Total CPU usage
+
 echo "######################"
 echo "# System Uptime Info #"
 echo "######################"
 
 uptime
+
+# Total CPU usage
 
 cpu_usage_stats() {
     echo "###################"
@@ -46,3 +48,9 @@ top_5_memory_usage() {
     echo "# Top 5 Memory #"
     echo "################"
 }
+
+cpu_usage_stats
+memory_usage_stats
+disk_usage_stats
+top_5_cpu_usage
+top_5_memory_usage

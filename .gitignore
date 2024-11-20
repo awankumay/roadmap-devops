@@ -1,0 +1,12 @@
+*~
+.env
+logs
+*.logs
+log
+*.log
+
+# Ignore File / Path Test
+test
+/test/
+*test*
+.*test*
