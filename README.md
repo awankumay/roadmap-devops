@@ -21,6 +21,7 @@
 - Prometheus and Grafana
 - Multi-Service Application
 - Service Discovery
+- Bash Script Install Clamav 1.4.2 ✅
 
 All projects can be found on roadmap.sh
 
